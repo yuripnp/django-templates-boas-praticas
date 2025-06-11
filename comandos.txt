@@ -1,0 +1,5 @@
+source ./venv/bin/activate # ativando ambiente virtual
+source ./venv/bin/deactivate # desativando ambiente virtual
+python manage.py startapp <nome-do-app> # criar um app
+python manage.py runserver #rodar o servidor django
+
